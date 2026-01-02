@@ -18,3 +18,5 @@ echo "<h1>Server 1</h1>" > /var/www/html/index.html
 Later :
 when u run the ip address with the http request u can see the page!!!!!!!!!
 wohooo!!!!!!!!!!!
+
+Later i have attached a load balancer and u will help to switch to the instamces
